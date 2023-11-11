@@ -27,7 +27,7 @@ def Hill(message, key):
     return "".join(cipher_text)
 
 # Contoh penggunaan
-message ="Akhdan"
+message ="akhdanfahr"
 key = "GYBNQKURP"
 cipher_text = Hill(message, key)
 print("Plaintext: ", message)
