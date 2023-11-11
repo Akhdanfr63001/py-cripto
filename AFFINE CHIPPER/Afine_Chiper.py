@@ -38,7 +38,7 @@ def affine_cipher_decrypt(ciphertext, a, b):
     return decrypted_text
 
 # Contoh penggunaan
-plaintext = "Hello, World!"
+plaintext = "akhdanfahr"
 a = 3
 b = 7
 
