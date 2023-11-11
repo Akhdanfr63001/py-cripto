@@ -23,7 +23,7 @@ def enkripsi_poli(plaintext, kunci1, kunci2):
     return ciphertext
 
 # Contoh penggunaan
-pesan = "BELAJAR KRIPTOGRAFI"
+pesan = "akhdanfahr"
 kunci1 = "MERDEKA"
 kunci2 = "INDONESIA"
 
